@@ -239,6 +239,16 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@hyper63/adapter-couchdb@^0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@hyper63/adapter-couchdb/-/adapter-couchdb-0.0.11.tgz#91f8da5d61f153792418966fce6a956966e5f14b"
+  integrity sha512-cA1+zmzdwsaicvigQCQ+CvQSNTIl/sHRls/f3qzdS3rt1oTpYWB8vwcZKXljGpCzbG7GxT+HzEAN9yF4DXCagw==
+  dependencies:
+    "@vercel/fetch-retry" "^5.0.3"
+    crocks "^0.12.4"
+    node-fetch "^2.6.1"
+    ramda "^0.27.1"
+
 "@hyper63/adapter-couchdb@^0.0.9":
   version "0.0.9"
   resolved "https://registry.yarnpkg.com/@hyper63/adapter-couchdb/-/adapter-couchdb-0.0.9.tgz#2e492069a4eea9559df258835ac0ff1b7c42d595"
@@ -2763,9 +2773,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.19, lodash@^4.17.20:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loglevel@^1.6.7:
   version "1.7.1"
