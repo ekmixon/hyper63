@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "crocks": "^0.12.4",
-    "ramda": "^0.27.1"
+    "ramda": "^0.27.2"
   },
   "devDependencies": {
     "esm": "^3.2.25",
