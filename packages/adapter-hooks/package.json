@@ -6,7 +6,7 @@
   "dependencies": {
     "@vercel/fetch": "^6.1.0",
     "crocks": "^0.12.4",
-    "ramda": "^0.27.1"
+    "ramda": "^0.27.2"
   },
   "devDependencies": {
     "fetch-mock": "^9.10.7",
