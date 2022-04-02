@@ -203,13 +203,12 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@hyper63/port-queue@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@hyper63/port-queue/-/port-queue-0.0.2.tgz#63449a7a48be6e0bc4ef6bbf15641cddf2dca8dd"
-  integrity sha512-gzgBbB0lPA+U9Vg4H3CRzlZsj3AkMR1zaPu8PoGORbyqVDC9LMWGNyiDXJCTwt4RYS8SzzUPppVfqWNuvrFqHw==
+"@hyper63/port-queue@^0.1.2":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@hyper63/port-queue/-/port-queue-0.1.4.tgz#8649732f4276605efd54db30326edba736f29cbb"
+  integrity sha512-6MPn5fZPnXpg3iq383k55zOe3F7SBmJVK1eN341Pb8DZunj0dFoW7JnFr3VnlmGDpJ/t/wShxOH8T00slYNQcQ==
   dependencies:
-    typescript "^4.2.3"
-    zod "^3.0.0-alpha.30"
+    zod "^3.0.0-alpha.33"
 
 "@types/node-fetch@^2.5.8":
   version "2.5.8"
@@ -752,9 +751,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 ms@2.1.2:
   version "2.1.2"
@@ -1077,3 +1076,8 @@ zod@^3.0.0-alpha.30:
   version "3.0.0-alpha.30"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.0.0-alpha.30.tgz#1300055e77bb1e7e5979486815aabe9d3b1c7b80"
   integrity sha512-B2Pz+P0hZkdo9HzAT9oysa6CsA9/X3Bg0ZZzheTqb7X3aSI8jspcFxo5s9s319Sa00wm0XyY3GpTQZsUu5/Cmg==
+
+zod@^3.0.0-alpha.33:
+  version "3.14.3"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.14.3.tgz#60e86341c05883c281fe96a0e79acea48a09f123"
+  integrity sha512-OzwRCSXB1+/8F6w6HkYHdbuWysYWnAF4fkRgKDcSFc54CE+Sv0rHXKfeNUReGCrHukm1LNpi6AYeXotznhYJbQ==
