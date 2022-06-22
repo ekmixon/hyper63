@@ -7,7 +7,7 @@
     "export-schema": "node scripts/exportSchema.js"
   },
   "dependencies": {
-    "apollo-server-express": "^2.19.0",
+    "apollo-server-express": "^3.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "graphql": "^15.4.0",
