@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "crocks": "^0.12.4",
-    "minio": "^7.0.16"
+    "minio": "^7.0.17"
   },
   "devDependencies": {
     "esm": "^3.2.25",
