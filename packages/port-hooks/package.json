@@ -10,7 +10,7 @@
   "version": "1.0.1",
   "license": "Apache-2.0",
   "dependencies": {
-    "zod": "^3.0.0-alpha.33"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "tape": "^5.0.1"
