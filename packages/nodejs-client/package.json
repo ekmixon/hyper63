@@ -6,13 +6,13 @@
   "dependencies": {
     "@vercel/fetch": "^6.1.0",
     "crocks": "^0.12.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "fetch-mock": "^9.11.0",
-    "tape": "^5.1.1"
+    "fetch-mock": "^10.0.0",
+    "tape": "^5.5.3"
   },
   "scripts": {
     "test": "tape index_test.js"
